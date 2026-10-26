@@ -1,9 +1,9 @@
 # JOBSHEET 5 - PEMILIHAN 2
 
 **Identitas Mahasiswa:**
-* **Nama:** [Subhan Akbar Mashuri]
-* **NIM:** [264107020214]
-* **Kelas / No. Presensi:** [TI-1D / 27]
+* **Nama:** Subhan Akbar Mashuri
+* **NIM:** 264107020214
+* **Kelas / No. Presensi:** TI-1D / 27
 
 ---
 
@@ -337,6 +337,16 @@ public class AsistenPratikum23 {
     }
 }
 ```
+#### 3.1.1 Hasil Running / Screenshot Output
+Berikut adalah contoh tampilan *output* setelah program dijalankan:
+Tugas 1
+![Tugas 1](https://github.com/subhanakbarmashuri23-glitch/Praktek-Dasar-Pemograman/blob/58b80f94533475084370a420d6a16bea40566ece/screenshot/Jobsheet%205/Screenshot%202026-10-06%20201742.png)
+Tugas 2
+![Tugas 2](https://github.com/subhanakbarmashuri23-glitch/Praktek-Dasar-Pemograman/blob/066e5d522e5d83bc580cec630c0e53cb354e6cc5/screenshot/Jobsheet%205/Screenshot%202026-10-06%20201826.png)
+![Tugas 2](https://github.com/subhanakbarmashuri23-glitch/Praktek-Dasar-Pemograman/blob/0306e65a7ec85ccd8c176c63eeeb3c089de33107/screenshot/Jobsheet%205/Screenshot%202026-10-06%20201859.png)
+![Tugas 2](https://github.com/subhanakbarmashuri23-glitch/Praktek-Dasar-Pemograman/blob/15f21c0cb270b1ba7a15db70579cdf2662f4e7b9/screenshot/Jobsheet%205/Screenshot%202026-10-06%20201921.png)
+
+
 ---
 
 ## 4: KESIMPULAN
