@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TokoBuku23 {
+public class TokoBuku27 {
     public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in); 
  

@@ -23,7 +23,7 @@ public class PemilihanSwitch27 {
                 break;
             case 5:
                 System.out.println("KRS Semester 5 ditampilkan");
-                
+                break;
             case 6:
                 System.out.println("KRS Semester 6 ditampilkan");
                 break;
