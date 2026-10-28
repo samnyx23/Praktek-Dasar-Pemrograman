@@ -55,7 +55,7 @@ public class SiakadFor27 {
 
 #### 2.1.2 Hasil Running / Screenshot Output
 
-![Output (ya, 6, 5)]
+![Output (ya, 6, 5)](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5677432f9c922206453f4342bcac901b97cc82e9/screenshot/Jobsheet%207/Screenshot%202026-10-28%20130539.png)
 
 
 
@@ -149,7 +149,7 @@ public class SiakadWhile27 {
 #### 2.2.2 Hasil Running / Screenshot Output
 
 
-![Uji 1]
+![Uji 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5677432f9c922206453f4342bcac901b97cc82e9/screenshot/Jobsheet%207/Screenshot%202026-10-28%20131055.png)
 
 
 #### 2.2.3 Jawaban Pertanyaan / Pertanyaan Refleksi
@@ -227,7 +227,7 @@ public class KafeDoWhile27 {
 
 #### 2.3.2 Hasil Running / Screenshot Output
 
-![Contoh Gambar Output Percobaan 1]
+![Contoh Gambar Output Percobaan 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5677432f9c922206453f4342bcac901b97cc82e9/screenshot/Jobsheet%207/Screenshot%202026-10-28%20131148.png)
 
 #### 2.3.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Pada penggunaan DO-WHILE ini, apabila nama pelanggan yang dimasukkan pertama kali
@@ -343,9 +343,9 @@ public class TarifParkir27 {
 #### 3.1.1 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 Tugas 1
-![Tugas 1]
+![Tugas 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5677432f9c922206453f4342bcac901b97cc82e9/screenshot/Jobsheet%207/Screenshot%202026-10-28%20131639.png)
 Tugas 2
-![Tugas 2]
+![Tugas 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5677432f9c922206453f4342bcac901b97cc82e9/screenshot/Jobsheet%207/Screenshot%202026-10-28%20131946.png)
 
 ---
 
