@@ -9,6 +9,7 @@ public class TarifParkir27 {
         do {
             System.out.print("Jenis 1 atau 2: ");
             jenis = sc.nextInt();
+
             if (jenis == 1 || jenis == 2) {
                 System.out.print("Total lama parkir: ");
                 durasi = sc.nextInt();
@@ -17,8 +18,10 @@ public class TarifParkir27 {
             } else {
                 total = durasi * 2000;
             }
-            System.out.println("Total harga parkir: " + total);
+            
         } while (jenis != 0);
+
+        System.out.println("Total harga parkir: " + total);
         sc.close();
     }
 }

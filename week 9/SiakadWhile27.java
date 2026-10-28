@@ -11,11 +11,7 @@ public class SiakadWhile27 {
         jumlah = sc.nextInt();
 
         while (i < jumlah) {
-            
-            i++;
-        }
-        while (i < jumlah) {
-            System.out.println("Masukan nilai mahasiswa ke-" + (i + 1) + ": ");
+            System.out.print("Masukan nilai mahasiswa ke-" + (i + 1) + ": ");
             nilai = sc.nextInt();
 
             if (nilai < 0 || nilai > 100) {
@@ -38,10 +34,11 @@ public class SiakadWhile27 {
             } else {
                 System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah E ");
             }
-            i++;
-            sc.close();    
-            }
+            i++;     
         }
+            sc.close(); 
+        }
+        
     }
 
 
