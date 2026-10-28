@@ -342,9 +342,13 @@ public class TarifParkir27 {
 ```
 #### 3.1.1 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
+
 Tugas 1
+
 ![Tugas 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5677432f9c922206453f4342bcac901b97cc82e9/screenshot/Jobsheet%207/Screenshot%202026-10-28%20131639.png)
+
 Tugas 2
+
 ![Tugas 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5677432f9c922206453f4342bcac901b97cc82e9/screenshot/Jobsheet%207/Screenshot%202026-10-28%20131946.png)
 
 ---
