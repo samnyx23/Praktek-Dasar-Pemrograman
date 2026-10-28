@@ -87,7 +87,7 @@ public class StudiKasus127 {
 
 Berikut adalah contoh tampilan _output_ setelah program dijalankan:
 
-![Output Studi Kasus 1](C:/PrakDasPro/screenshot/Jobsheet6/Screenshot2026-10-28123050.png)
+![Output Studi Kasus 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/d6a1d5d75229c74fc1fa0e7c0466b50aec7922fc/screenshot/Jobsheet%206/Screenshot%202026-10-28%20123050.png)
 
 #### 2.2.3 Tabel Pengujian Parameter Output
 
@@ -170,7 +170,7 @@ public class StudiKasus227 {
 
 Berikut adalah contoh tampilan _output_ setelah program dijalankan:
 
-![Output Studi Kasus 2](assets/studikasus2.png)
+![Output Studi Kasus 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/d6a1d5d75229c74fc1fa0e7c0466b50aec7922fc/screenshot/Jobsheet%206/Screenshot%202026-10-28%20123519.png)
 
 #### 2.3.3 Tabel Pengujian Parameter Output
 
