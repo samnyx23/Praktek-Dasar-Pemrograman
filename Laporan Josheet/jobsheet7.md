@@ -89,6 +89,42 @@ mahasiswa yang lulus dan yang tidak lulus berdasarkan batas kelulusan (nilai min
 Tampilkan jumlah mahasiswa lulus dan tidak lulus setelah menampilkan nilai tertinggi
 dan terendah!
   * **Jawab:**
+```java
+import java.util.Scanner;
+ 
+public class SiakadFor27 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        double nilai, tertinggi = 0, terendah = 100;
+        int lulus = 0, tidakLulus = 0;
+ 
+        for (int i = 1; i <= 10; i++) {
+            System.out.print("Masukkan nilai mahasiswa ke-" + i + ": ");
+            nilai = sc.nextDouble();
+            if (nilai > tertinggi) {
+                tertinggi = nilai;
+            }
+            if (nilai < terendah) {
+                terendah = nilai;
+            }
+            if (nilai >= 60) {
+                lulus++;
+            } else {
+                tidakLulus++;
+            }
+        }
+ 
+        System.out.println("Nilai tertinggi: " + tertinggi);
+        System.out.println("Nilai terendah: " + terendah);
+        System.out.println("Jumlah mahasiswa lulus: " + lulus);
+        System.out.println("Jumlah mahasiswa tidak lulus: " + tidakLulus);
+
+        sc.close();
+    }
+}
+```
+ 
+![Hasil Modifikasi Percobaan 1]()
         
 
 ---
@@ -112,11 +148,7 @@ public class SiakadWhile27 {
         jumlah = sc.nextInt();
 
         while (i < jumlah) {
-            
-            i++;
-        }
-        while (i < jumlah) {
-            System.out.println("Masukan nilai mahasiswa ke-" + (i + 1) + ": ");
+            System.out.print("Masukan nilai mahasiswa ke-" + (i + 1) + ": ");
             nilai = sc.nextInt();
 
             if (nilai < 0 || nilai > 100) {
@@ -139,10 +171,11 @@ public class SiakadWhile27 {
             } else {
                 System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah E ");
             }
-            i++;
-            sc.close();    
-            }
+            i++;     
         }
+            sc.close(); 
+        }
+        
     }
 ```
 
@@ -180,6 +213,14 @@ akan berjalan?
 * **Pertanyaan 4:** Modifikasi kode program sehingga apabila terdapat mahasiswa yang mendapat nilai A,
 program menampilkan pesan tambahan "Bagus, pertahankan nilainya"!
   *  **Jawab:** 
+```java
+if (nilai > 80 && nilai <= 100) {
+    System.out.println("Nilai mahasiswa ke-" + (i + 1) + " adalah A");
+    System.out.println("Bagus, pertahankan nilainya");
+}
+```
+ 
+![Hasil Modifikasi Percobaan 2]()
   
 
 
@@ -269,47 +310,56 @@ bentuk kode program Java!
 //Tugas 1
 import java.util.Scanner;
 
-public class Bioskop27 {
+public class TugasBioskop27 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        final int hargaTiket = 50000;
+        int jumlah;
+        int totalTiket = 0;
+        double totalPenjualan = 0;
 
-        int hargaTiket = 50000;
-        int totalTiket = 0; 
-        double totalHarga = 0, diskon = 0;
+        System.out.println("Penjualan Tiket Bioskop");
+        System.out.println("========================");
 
         while (true) {
-            System.out.print("Jumlah tiket yang di beli: ");
-            int jumlah = sc.nextInt();
+            System.out.print("Masukkan jumlah tiket yang dibeli: ");
+            jumlah = sc.nextInt();
 
             if (jumlah < 0) {
-                System.out.println("Input tidak valid!");
+                System.out.println("Input tidak valid. Silakan masukkan jumlah tiket yang valid!");
                 continue;
             }
+
             if (jumlah == 0) {
-                break;    
+                break;
             }
-            if (jumlah > 4) {
-                diskon = 0.1;
-            }
+
+            double harga = jumlah * hargaTiket;
+            double diskon = 0;
+
             if (jumlah > 10) {
                 diskon = 0.15;
-            } else {
-                diskon = 0;
+            } else if (jumlah > 4) {
+                diskon = 0.10;
             }
 
-            double totalBayar = jumlah * hargaTiket * (1-diskon);
+            double bayar = harga - (harga * diskon);
 
+            System.out.println("Diskon: " + (int) (diskon * 100) + "%");
+            System.out.println("Harga tiket: Rp " + harga);
+            System.out.println("Total bayar pelanggan: Rp " + (long) bayar);
+ 
             totalTiket += jumlah;
-            totalHarga += totalBayar;
-
-            System.out.println("Total tiket terjual: " + totalTiket);
-            System.out.println("Total harga: Rp." + totalHarga);
-
-            
+            totalPenjualan += bayar;
         }
 
+        System.out.println("Penjualan tiket hari ini.");
+        System.out.println("Total tiket terjual: " + totalTiket);
+        System.out.println("Total penjualan: Rp " + (long) totalPenjualan);
+
+        sc.close();
     }
-}       
+}
 ```
 
 
@@ -326,6 +376,7 @@ public class TarifParkir27 {
         do {
             System.out.print("Jenis 1 atau 2: ");
             jenis = sc.nextInt();
+
             if (jenis == 1 || jenis == 2) {
                 System.out.print("Total lama parkir: ");
                 durasi = sc.nextInt();
@@ -334,8 +385,10 @@ public class TarifParkir27 {
             } else {
                 total = durasi * 2000;
             }
-            System.out.println("Total harga parkir: " + total);
+            
         } while (jenis != 0);
+
+        System.out.println("Total harga parkir: " + total);
         sc.close();
     }
 }
