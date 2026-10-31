@@ -42,7 +42,7 @@ public class Star27 {
 
 **Hasil pengujian:**
 
-![Contoh Gambar Output Percobaan 1]()
+![Contoh Gambar Output Percobaan 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20003150.png)
 
 ### Jawaban Pertanyaan
 
@@ -130,7 +130,7 @@ public class Rectangle27 {
 
 **Hasil pengujian:**
 
-![Contoh Gambar Output Percobaan 2]()
+![Contoh Gambar Output Percobaan 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20003345.png)
 
 ### Jawaban Pertanyaan
 
@@ -235,7 +235,7 @@ public class Triangle27 {
 
 **Hasil pengujian:**
 
-![Contoh Gambar Output Percobaan 3]()
+![Contoh Gambar Output Percobaan 3](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20003511.png)
 
 
 ### Hasil Pengamatan Langkah 5 dan 6
@@ -328,7 +328,7 @@ public class NilaiKelompok27 {
 
 **Hasil pengujian:**
 
-![Contoh Gambar Output Percobaan 4]()
+![Contoh Gambar Output Percobaan 4](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20003852.png)
 
 Input jumlah kelompok = 0 menghasilkan pesan `Jumlah kelompok dan penilai harus > 0.`
 
@@ -394,7 +394,7 @@ public class Tugas127 {
 
 **Hasil pengujian:**
 
-![Contoh Gambar Output Tugas 1]()
+![Contoh Gambar Output Tugas 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20004000.png)
 
 
 Total angka = 1 + 2 + … + n = n(n + 1) / 2 = 15.
@@ -433,7 +433,7 @@ public class Tugas227 {
 
 **Hasil pengujian:**
 
-![Contoh Gambar Output Tugas 2]()
+![Contoh Gambar Output Tugas 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20004109.png)
 
 
 ### Tugas 3 – Rekap Penjualan Beberapa Toko (`Tugas3NoAbsen.java`)
@@ -505,7 +505,7 @@ public class Tugas327 {
 
 **Hasil pengujian:**
 
-![Contoh Gambar Output Tugas 3]()
+![Contoh Gambar Output Tugas 3](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20004226.png)
 
 
 ---

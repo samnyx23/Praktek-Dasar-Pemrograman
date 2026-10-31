@@ -124,7 +124,7 @@ public class SiakadFor27 {
 }
 ```
  
-![Hasil Modifikasi Percobaan 1]()
+![Hasil Modifikasi Percobaan 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%207/Screenshot%202026-10-28%20221654.png)
         
 
 ---
@@ -220,7 +220,7 @@ if (nilai > 80 && nilai <= 100) {
 }
 ```
  
-![Hasil Modifikasi Percobaan 2]()
+![Hasil Modifikasi Percobaan 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%207/Screenshot%202026-10-28%20222547.png)
   
 
 
