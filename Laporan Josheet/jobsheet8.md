@@ -238,14 +238,6 @@ public class Triangle27 {
 ![Contoh Gambar Output Percobaan 3](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/a4041525f31429ce855df5183b78f75a9d5df31a/screenshot/Jobsheet%208/Screenshot%202026-11-01%20003511.png)
 
 
-### Hasil Pengamatan Langkah 5 dan 6
-
-- **5a.** *Outer loop* berjalan **6 kali** (i = 0 sampai 5), tidak sama dengan jumlah baris yang diinginkan (5).
-- **5b.** Saat `i = 0` tercetak **0 bintang**, sehingga baris pertama kosong.
-- **5c.** Semua karakter tampil dalam satu baris karena belum ada `println()` setelah *inner loop*.
-- **6a.** Setelah `println()` ditambahkan, masih ada **satu baris kosong di awal** (dari `i = 0`).
-- **6b.** Inisialisasi diubah menjadi `i = 1` (kondisi `i <= n` tetap) sehingga *outer loop* berjalan tepat n kali.
-
 ### Jawaban Pertanyaan
 
 **1. Ketidaksesuaian output awal dan minimal dua perbaikan.**
