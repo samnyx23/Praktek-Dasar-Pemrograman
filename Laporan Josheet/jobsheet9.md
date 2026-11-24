@@ -51,7 +51,7 @@ public class ArrayBilangan27 {
 #### 2.1.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Percobaan 1]()
+![Percobaan 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20194335.png)
 
 #### 2.1.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Jika isi masing-masing elemen array bil diubah dengan angka 5.0, 12867, 7.6, 2000000, apa yang terjadi? Mengapa bisa demikian?
@@ -64,7 +64,7 @@ Berikut adalah contoh tampilan *output* setelah program dijalankan:
 * **Pertanyaan 3:** Ubah statement penampilan pada langkah ke-4 menjadi seperti berikut: `System.out.println("bil[" + i + "] = " + bil[i] + ", double = " + (bil[i] * 2));` Apa keluaran dari program? Jelaskan maksud dari statement tersebut.
     * **Jawab:** Digunakan untuk menampilkan indeks array, isi nilai dari array, dan hasil perkalian nilai elemen dengan angka 2.
 
-        ![Percobaan 1: Pertanyaan 3]()
+        ![Percobaan 1: Pertanyaan 3](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20194714.png)
 
 * **Pertanyaan 4:** Jika kodisi pada statement for-loop di atas diubah menjadi i <= 4, apa keluaran dari program? Mengapa demikian?
     * **Jawab:** Program akan menampilkan elemen array dari indeks 0 hingga 3, kemudian akan mengalami error `ArrayIndexOutOfBoundsException`ketika ingin mengakses indeks 4. Hal ini terjadi karena array hanya memiliki 4 elemen dari indeks 0 hingga 3.
@@ -106,7 +106,7 @@ public class ArrayNilai27 {
 #### 2.2.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Percobaan 2]()
+![Percobaan 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20194554.png)
 
 #### 2.2.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Apa yang dimaksud dengan kondisi `i < nilaiAkhir.length` pada perulangan di atas?
@@ -198,7 +198,7 @@ public class ArrayRataNilai27 {
 #### 2.3.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Percobaan 3](ArrayRataNilai.png)
+![Percobaan 3](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20194921.png)
 
 #### 2.3.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Modifikasi kode program di atas agar dapat menampilkan banyaknya mahasiswa yang lulus, yaitu mahasiswa yang memiliki nilai lebih besar dari 70 (>70).
@@ -306,11 +306,11 @@ public class SortNilai27 {
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 * Bagian A:
 
-![Percobaan 4 Bagian A]()
+![Percobaan 4 Bagian A](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20195304.png)
 
 * Bagian B:
 
-![Percobaan 4 Bagian B]()
+![Percobaan 4 Bagian B](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20195459.png)
 
 #### 2.4.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Jelaskan maksud dari statement break; pada kode program bagian A di atas!
@@ -425,7 +425,7 @@ public class Tugas1NilaiMahasiswa27 {
 #### 3.1.2 Hasil Runnning / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Tugas 1](Tugas1Array.png)
+![Tugas 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20195714.png)
 
 ---
 
@@ -535,7 +535,7 @@ public class Tugas2KafeKampus27 {
 #### 3.2.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Tugas 2](Tugas2Array.png)
+![Tugas 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%209/Screenshot%202026-11-24%20200015.png)
 
 ---
 

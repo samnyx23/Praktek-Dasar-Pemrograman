@@ -49,7 +49,7 @@ public class Bioskop27 {
 #### 2.1.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Percobaan 1]()
+![Percobaan 1](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%2011/Screenshot%202026-11-24%20203700.png)
 
 #### 2.1.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Apakah pengisian elemen array harus dilakukan secara berurutan mulai dari indeks ke-0? Jelaskan!
@@ -222,7 +222,7 @@ public class BioskopWithScanner27 {
 #### 2.2.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Percobaan 2]()
+![Percobaan 2](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%2011/Screenshot%202026-11-24%20204311.png)
 
 #### 2.2.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Apakah pengisian elemen array dari Scanner harus dilakukan secara berurutan mulai dari indeks ke-0? Jelaskan!
@@ -458,7 +458,7 @@ public class Numbers27 {
 #### 2.3.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Percobaan 3]()
+![Percobaan 3](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%2011/Screenshot%202026-11-24%20204416.png)
 
 #### 2.3.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Apa fungsi dari `Arrays.toString()`?
@@ -585,7 +585,7 @@ public class SIAKAD27 {
 #### 2.4.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Percobaan 4]()
+![Percobaan 4](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%2011/Screenshot%202026-11-24%20204825.png)
 
 #### 2.4.3 Jawaban Pertanyaan / Pertanyaan Refleksi
 * **Pertanyaan 1:** Bagaimana jika jumlah mahasiswa dan jumlah mata kuliah berubah? Modifikasi program SIAKAD agar jumlah mahasiswa dan mata kuliah dapat ditentukan saat program berjalan.
@@ -731,7 +731,7 @@ public class Survei27 {
 #### 3.1.2 Hasil Running / Screenshot Output
 Berikut adalah contoh tampilan *output* setelah program dijalankan:
 
-![Tugas Mandiri]()
+![Tugas Mandiri](https://github.com/samnyx23/Praktek-Dasar-Pemrograman/blob/5fb877104c5c83cfd4ce913d2945a2e84f6f1b29/screenshot/Jobsheet%2011/carbon.png)
 
 ---
 
